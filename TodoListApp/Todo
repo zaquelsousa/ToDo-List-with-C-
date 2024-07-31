@@ -1,0 +1,13 @@
+todo list do que tenho qeu fazer pra fazer um todo list
+
+1 - add tarefas 
+    add as tarefas com nome, descriçao e check de completo
+
+2 - listar tarefas 
+    listar todas as tarefas, mostrando o título, descrição e status (pendente ou concluída)
+
+3 - marcar tarefas como concliodas
+    o user deve ser capaa de marcar a tarefa especificada como concluida
+
+4 - remover tarefa 
+    remover a tarefa especificada
